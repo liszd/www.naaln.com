@@ -1,0 +1,273 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-15 11:53-0500\n"
+"PO-Revision-Date: 2016-02-15 12:02-0500\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: index.php:19
+msgid "I am Chengzhang Li,"
+msgstr "我是李承璋，"
+
+#: index.php:19
+msgid "Traveler, Photographer, Geeker. "
+msgstr "伪极客，喜欢编程，喜欢新鲜的事物。"
+
+#: index.php:68
+msgid "Description"
+msgstr "简述"
+
+#: index.php:71 index.php:122
+msgid "Travel"
+msgstr "旅行"
+
+#: index.php:74 index.php:201
+msgid "Photography"
+msgstr "攝影"
+
+#: index.php:77 index.php:223
+msgid "Geeker"
+msgstr "极客"
+
+#: index.php:80 index.php:285
+msgid "Contact"
+msgstr "联系"
+
+#: index.php:83 index.php:311
+msgid "About"
+msgstr "关于"
+
+#: index.php:86
+msgid "Blog"
+msgstr "博客"
+
+#: index.php:89
+msgid "Gallery"
+msgstr "相册"
+
+#: index.php:104
+msgid "I am Chengzhang Li, "
+msgstr "我是李承璋，"
+
+#: index.php:104
+msgid "Traveler, Photographer, Geeker."
+msgstr "伪极客，喜欢编程，喜欢新鲜的事物。"
+
+#: index.php:105
+msgid "Softer engine programmer from China "
+msgstr "我是一名来自中国的大学生"
+
+#: index.php:105
+msgid "with strong educational background in programming."
+msgstr "，现在在纽约继续学习。"
+
+#: index.php:107
+msgid "This is my Homepage, "
+msgstr "这是我的个人网站，"
+
+#: index.php:107
+msgid "Welcome to "
+msgstr "欢迎访问"
+
+#: index.php:107
+msgid "My Blog"
+msgstr "我的博客"
+
+#: index.php:107
+msgid "And "
+msgstr "和"
+
+#: index.php:108
+msgid "My Gallery"
+msgstr "摄影网站"
+
+#: index.php:123
+msgid ""
+"We are always on the road, searching, searching for passion, searching for "
+"love, and searching for what life is."
+msgstr ""
+"经常旅行的人可能会发现，在旅行途中，对于自己和身边的人以及这个世界，慢慢地会"
+"有重新的审视。世界这么大，我一直在路上。"
+
+#: index.php:126
+msgid ""
+"In the Road Trip, Let there be Light<br>No matter Luxuries or Simple life, "
+"We are Experiencer"
+msgstr "要有光， 在路上， 奢与简， 体验者，"
+
+#: index.php:127
+msgid ""
+"Abandon Tower of Babel, not to be Stranger<br>Endless Joys and Happiness for "
+"the Dream"
+msgstr "巴别塔， 陌生人， 无尽欢， 因有梦。"
+
+#: index.php:130
+msgid "World Map"
+msgstr "世界的轨迹"
+
+#: index.php:203
+msgid ""
+"I like taking photo on the travel. No photography skills, only life and "
+"mood. The world is so beautiful, why not bring the camera."
+msgstr ""
+"旅行的途中喜欢随手拍一些照片，渐渐的也有了一个小影集。没有什么摄影技巧，只有"
+"生活和心情。世界这么美，不妨带上相机去看看。"
+
+#: index.php:206
+msgid ""
+"With the shutter being opened, the time being freezed, a 'moment' is not "
+"repeatable, that became forever."
+msgstr ""
+"随着快门的开启，时间被凝固下来，作为 '此时此刻' 的记录是不可重复的，也就成为"
+"永远。"
+
+#: index.php:209
+msgid "View at Liam·why·photo™"
+msgstr "在 Liam·why·photo™ 中浏览"
+
+#: index.php:209
+msgid "View My Gallery"
+msgstr "浏览摄影作品"
+
+#: index.php:224
+msgid ""
+"When I have demands, I will write some softwares to meet my ideas. I wrote a "
+"theme for a bad looking website; I coded a Chrome extension to simpy weibol; "
+"I developed a Alfred Workflows to facilitate Youdao dictionary... I can "
+"practice my new knowledge in creative idea."
+msgstr ""
+"时常以 '伪极客' 自居，当我有需求的时候，会自己写软件，满足自己的各种想法 。曾"
+"今因为选不到课写了抢课软件；因为网站不好看写了主题；因为新版的Weibo不简洁发布"
+"了Chrome插件；因为有道词典的不方便写了Alfred Workflows … 我可以为自己任性的小"
+"想法催生出一个又一个的小 demo，实践自己新掌握的新知识。"
+
+#: index.php:228
+msgid "Web developer"
+msgstr " Web 开发 "
+
+#: index.php:229
+msgid ""
+"From setting up the database to the server configuration, from the front-end "
+"designing to the achieving background, from website development to version "
+"iterations, I can do whole things."
+msgstr ""
+"半桶水 web 开发工程师，从服务器搭建到数据库配置，从前端设计到后台实现，从网站"
+"开发到版本迭代，从构建到维护及管理，我书写着心中的想法。"
+
+#: index.php:231
+msgid "Website"
+msgstr "网站"
+
+#: index.php:233
+msgid "Naaln Page -  Homepage"
+msgstr "纳兰主页 － 李承璋，一名伪极客"
+
+#: index.php:234
+msgid "Naaln Blog -  Record life"
+msgstr "纳兰博客 － 记录我点滴的地方"
+
+#: index.php:235
+msgid "Naaln Photo -  Record time "
+msgstr "纳兰相册 － 愿相册会记录我的年华"
+
+#: index.php:236
+msgid "Miss scuba offical site"
+msgstr "国际潜水小姐大赛 中国区官网"
+
+#: index.php:237
+msgid "Journal for SBU student"
+msgstr "石溪日记 石溪大学校园指南"
+
+#: index.php:242
+msgid "software developer"
+msgstr " 产品开发 "
+
+#: index.php:243
+msgid ""
+"Master degree at Stony Brook University in technology system mangement. "
+"Hoping I can develop a global product."
+msgstr ""
+"研究生在纽约学习科技运营管理方面的知识，希望可以开发一款属于自己的产品。将会"
+"朝着硬件与大数据方向努力。"
+
+#: index.php:245
+msgid "Experience"
+msgstr "经验"
+
+#: index.php:247
+msgid "Six degrees - Relationship Search Engine"
+msgstr "六度空间 － 基于六度空间理论的关系搜索引擎"
+
+#: index.php:248
+msgid "Cut & Recode - Online KTV, music editing, scoring"
+msgstr "剪录应用 － 在线KTV，音乐编辑，打分网站"
+
+#: index.php:249
+msgid "C O D E - Version control and collaboration tool"
+msgstr "C O D E － 类GITHUB的豆瓣内部版本控制平台"
+
+#: index.php:254
+msgid "View Resume"
+msgstr "详细简历"
+
+#: index.php:264
+msgid "myresume_en"
+msgstr "myresume_zh"
+
+#: index.php:295 index.php:297
+msgid "secrecy"
+msgstr "暂时保密"
+
+#: index.php:315
+msgid "Basic style reference to "
+msgstr "网站的基本样式参考了"
+
+#: index.php:315
+msgid ", this web site is percolating to my full satisfaction"
+msgstr "的主页，自己陆续设计过几个，发觉都没有这个来得满意。"
+
+#: index.php:316
+msgid ""
+"While Bootstrap 4 released, I updated my version and added the flat design "
+msgstr "趁着 Bootstrap 4 发布之际，更新了自己的版本，并且加入了扁平化的设计。"
+
+#: index.php:317
+msgid "The page used rasterize "
+msgstr "该网页采用栅格化"
+
+#: index.php:317
+msgid "Check out this site's performance in different resolutions."
+msgstr "看看这个网站在不同分辨率下的表现"
+
+#: index.php:317
+msgid "Responsive "
+msgstr "响应式"
+
+#: index.php:317
+msgid "layout, applied various CSS elements and lots of animation"
+msgstr "布局，应用了多种实验性 CSS 元素和大量动画效果"
+
+#: index.php:318
+msgid "Supported Retina higher-resolution screen and iOS Web App display"
+msgstr "并支持 Retina 高清屏幕和 iOS Web App"
+
+#: index.php:319
+msgid "Also configured the on HTML5 offline cache and Canvas technology"
+msgstr "还有基于 HTML 5 的离线缓存和 Canvas 绘图等技术"
+
+#: index.php:350
+msgid "style-en.min.js"
+msgstr "style-zh.min.js"

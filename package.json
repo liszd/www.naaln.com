@@ -1,0 +1,20 @@
+{
+  "name": "www.naaln.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'ok'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liszd/www.naaln.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liszd/www.naaln.com/issues"
+  },
+  "homepage": "https://github.com/liszd/www.naaln.com#readme",
+  "dependencies": {}
+}

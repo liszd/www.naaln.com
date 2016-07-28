@@ -1,0 +1,29 @@
+language: node_js
+node_js:
+- '0.12'
+branches:
+  only:
+  - gh-pages
+before_install:
+- openssl aes-256-cbc -K $encrypted_26049b6f5814_key -iv $encrypted_26049b6f5814_iv
+  -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
+- chmod 600 ~/.ssh/id_rsa
+- eval $(ssh-agent)
+- ssh-add ~/.ssh/id_rsa
+- cp .travis/ssh_config ~/.ssh/config
+install:
+- npm install
+script:
+- mkdir ~/web
+- cp source/index.html ~/web
+- cp -rf source/style ~/web
+- cp source/CNAME ~/web
+- cd ~/web
+- git init
+- git config --global user.name 'whyliam'
+- git config --global user.email liamzhuce@gmail.com
+- git remote add coding git@git.coding.net:whyliam/naaln.com.git
+- git add .
+- git commit -m "Update Naaln.com" 
+after_success:
+- git push coding master:gh-pages -f
