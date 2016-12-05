@@ -15,9 +15,10 @@ install:
 - npm install
 script:
 - mkdir ~/web
-- cp source/index.html ~/web
-- cp -rf source/style ~/web
-- cp source/CNAME ~/web
+- cp -rf source/* ~/web
+# - cp source/index.html ~/web
+# - cp -rf source/style ~/web
+# - cp source/CNAME ~/web
 - cd ~/web
 - git init
 - git config --global user.name 'whyliam'
