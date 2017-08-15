@@ -25,5 +25,7 @@ script:
 - git remote add coding git@git.coding.net:whyliam/www.naaln.com.git
 - git add .
 - git commit -m "Update Naaln.com" 
-after_success:
 - git push coding master:coding-pages -f
+after_success:
+- cd ..
+- rm -rf ~/web
