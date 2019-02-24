@@ -1,0 +1,134 @@
+html {scroll-behavior: smooth;}
+.btn,.modal-content,.navbar {
+  border-radius:0
+}
+body {
+  background:url(../imgs/mooning@2x.jpg);
+  background-size:400px 400px;
+  position:relative
+}
+@media (max-width:75em) {
+  .max75 {
+  display:none
+}
+}@media (max-width:62em) {
+  .max62 {
+  display:none
+}
+}.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9 {
+  padding-right:2rem;
+  padding-left:2rem
+}
+.btn {
+  box-shadow:2px 2px 2px rgba(0,0,0,.25)
+}
+.modal-content {
+  box-shadow:5px 5px 6px rgba(0,0,0,.5)
+}
+@media (min-width:34em) {
+  }.navbar {
+  padding:0;
+  background-color:#121212;
+  box-shadow:2px 2px 5px rgba(0,0,0,.25)
+}
+.navbar-nav .nav-link {
+  padding:.75rem;
+  font-size:14px;
+}
+
+.flat-box {
+  background:rgba(255,255,255,.8);
+  text-shadow:2px 1px 2px rgba(102,102,102,.9);
+  box-shadow:5px 5px 5px rgba(0,0,0,.25)
+}
+.flat-box h1 {
+  text-shadow:3px 3px 4px rgba(114,114,114,.9)
+}
+#about p,#creativity .col-md-6,#creativity a {
+  text-shadow:2px 1px 2px rgba(102,102,102,.6)
+}
+#travel {
+  margin-top:138px
+}
+@media (max-width:34em) {
+  #travel {
+  margin-top:80px
+}
+}#china-map {
+  height:360px;
+  /*background:url(../imgs/map-bg.jpg)*/
+}
+@media (min-width:34em) {
+  .modal-dialog {
+  margin-top:60px
+}
+}#myworld .modal-body {
+  padding:0
+}
+.modal-body button.close {
+  position:fixed;
+  z-index:999;
+  right:0;
+  margin-right:10px;
+  color:#fff
+}
+#about,#contact,#creativity,#photography {
+  margin-top:80px
+}
+#creativity .col-md-6 {
+  padding-left:1rem;
+  padding-right:1rem
+}
+#creativity .col-md-3 {
+  padding-left:0;
+  padding-right:0
+}
+#creativity .col-md-3 img {
+  width:100%;
+  box-shadow:10px 5px 10px rgba(0,0,0,.25)
+}
+#creativity ul {
+  padding-left:25px
+}
+#creativity a {
+  color:#000
+}
+#creativity a:focus,a:hover {
+  text-decoration:none
+}
+#myprofile .modal-body {
+  padding:0
+}
+#myprofile img {
+  width:100%
+}
+#contact a {
+  font-size:4em
+}
+#contact a .fa {
+  height:1.3em
+}
+@media (max-width:34em) {
+  #contact a {
+  font-size:2.5em
+}
+}#about {
+  margin-bottom:80px
+}
+#about p {
+  margin-bottom:0
+}
+#about .licience {
+  font-size:14px
+}
+#rocket {
+  border-radius:50%;
+  box-shadow:5px 5px 20px rgba(0,0,0,.25);
+  padding:4px;
+  width:64px;
+  height:64px;
+  margin:20px
+}
+.jvectormap-tip {
+  z-index:1100
+}
