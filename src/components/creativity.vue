@@ -37,7 +37,8 @@
                       <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         <span class="sr-only">Close</span></button>
-                      <img src="../imgs/myresume_zh.png"></div>
+                      <img src="../../static/imgs/myresume_zh.png">
+                    </div>
                   </div>
                 </div>
               </div>

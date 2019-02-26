@@ -32,13 +32,9 @@
 </template>
 
 <script>
+
 export default {
-  name: 'travel',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
+  name: 'travel'
 }
 </script>
 
